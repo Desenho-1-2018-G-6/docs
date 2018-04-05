@@ -10,3 +10,6 @@
 
 <p align="justify">A responsabilidade das várias atividades realizadas no gerenciamento de riscos do projeto será  compartilhada com toda a equipe de desenho.
 
+# 4. Prazos
+
+<p align="justify"> O processo de identificar os riscos será feito assim que o plano de gerenciamento de riscos estiver pronto. Com os riscos identificados será feita a análise tanto quantitativa como qualitativa deles, desse ponto será feito um planejamento de respostas aos riscos que será executado de acordo com o estado de cada risco.
