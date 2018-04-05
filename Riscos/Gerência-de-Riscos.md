@@ -5,3 +5,8 @@
 # 2. Metodologia
 
 <p align="justify"> Será adotada uma abordagem baseado no PMBOK, sendo assim as ferramentas que nos auxiliarão a gerenciar os riscos do projeto estão descritas no PMBOK, como exemplo temos a análise SWOT, a Estrutura Analítica de Riscos (EAR).
+
+# 3. Papéis e responsabilidades
+
+<p align="justify">A responsabilidade das várias atividades realizadas no gerenciamento de riscos do projeto será  compartilhada com toda a equipe de desenho.
+
