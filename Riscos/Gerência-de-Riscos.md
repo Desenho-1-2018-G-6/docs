@@ -45,3 +45,46 @@
 
 <p align="justify">Para uma análise e priorização confiável dos riscos é necessária uma definição de níveis de probabilidade e impacto dos riscos. Para isso serão utilizadas algumas escalas e depois por meio de uma matriz será definida a escala de prioridade.
 
+## 8.1. Tabela de probabilidade
+
+|Probabilidade|Intervalo|
+|--- |--- |
+|Muito Baixa|menor que 10%|
+|Baixa|de 11% a 30%|
+|Média|de 31% a 50%|
+|Alta|de 51% a 60%|
+|Muito Alta|de 61% a 70%|
+
+
+## 8.2. Tabela de impacto
+
+|Impacto|Intervalo|
+|--- |--- |
+|Muito Baixo|menor que 20%|
+|Baixo|de 21% a 40%|
+|Médio|de 41% a 60%|
+|Alto|de 61% a 80%|
+|Muito Alto|Acima de 80%|
+
+# 9. Matriz de probabilidade e impacto
+
+<p align="justify">Por meio das duas tabelas acima é possível criar uma matriz que define como categorizar os riscos por prioridade.
+
+|Probabilidade / Impacto|Muito Baixa|Baixo|Média|Alta|Muito Alta|
+|--- |--- |--- |--- |--- |--- |
+|Muito Baixo|1|2|3|4|5|
+|Baixo|2|4|6|8|10|
+|Médio|3|6|9|12|15|
+|Alto|4|8|12|16|20|
+|Muito Alto|5|10|15|20|25|
+
+Com base nessa matriz o time definiu como categorizar por prioridade.
+
+|Prioridade|Intervalo|
+|--- |--- |
+|Muito Baixa|1 ~ 4|
+|Baixa|5 ~ 9|
+|Média|10 ~ 14|
+|Alta|15 ~ 19|
+|Muito Alta|20 ~ 25|
+
