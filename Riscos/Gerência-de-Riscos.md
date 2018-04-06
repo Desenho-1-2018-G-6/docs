@@ -21,3 +21,9 @@
 ![EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
 [EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
 
+# 6. Identificação dos riscos
+
+<p align="justify">identificar os ricos é um processo essencial neste gerenciamento pois permite ao time a entendê-los melhor e assim se antecipar aos possíveis eventos que irão ocorrer durante o projeto. Para o projeto foi decidido a utilização de duas técnicas listadas no PMBOK, são elas: Brainstorming e Análise SWOT.
+<p align="justify">No brainstorming irá ocorrer uma reunião onde com o EAR será discutido pelo time todos os possíveis riscos e com a análise SWOT o projeto será avaliado em forças, oportunidades, fraquezas e ameaças.
+
+
