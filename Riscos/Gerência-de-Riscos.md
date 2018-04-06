@@ -122,4 +122,6 @@ Com base nessa matriz o time definiu como categorizar por prioridade.
 ### 10.2.4. Aceitar
 <p align="justify">Essa estratégia consiste em reconhecer que essa oportunidade existe porém não persegui-la.
 
+# 11. Controle dos riscos
 
+<p align="justify">Segundo o PMBOK, essa atividade consiste em implementar  o processo de resposta aos riscos previamente planejado, além de avaliar possíveis novos riscos e verificar se as respostas estão sendo eficazes. O projeto irá utilizar a opinião do time de gerência e reuniões de forma a alocar tempo e atenção a essas atividades.
