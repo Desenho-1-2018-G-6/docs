@@ -41,4 +41,7 @@
 **Monitoramento** | |
 **Controle** | |
 
+# 8. Probabilidade e impacto dos riscos
+
+<p align="justify">Para uma análise e priorização confiável dos riscos é necessária uma definição de níveis de probabilidade e impacto dos riscos. Para isso serão utilizadas algumas escalas e depois por meio de uma matriz será definida a escala de prioridade.
 
