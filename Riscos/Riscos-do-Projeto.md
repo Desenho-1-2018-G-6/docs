@@ -93,3 +93,11 @@ Este docuemnto contém os riscos levantados no projeto.
   </tr>
 </table>
 
+## 3. EAR
+
+Segue abaixo a Estrutura Analítica de Riscos definida pela equipe de Gerência.
+
+![EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
+[EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
+
+
