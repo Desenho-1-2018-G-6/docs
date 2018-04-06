@@ -88,3 +88,38 @@ Com base nessa matriz o time definiu como categorizar por prioridade.
 |Alta|15 ~ 19|
 |Muito Alta|20 ~ 25|
 
+# 10. Planejamento de respostas aos riscos
+
+<p align="justify">A atividade de resposta aos riscos tem como objetivo aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto. Como citado anteriormente, os riscos serão classificados em dois tipos: riscos negativos e riscos positivos.
+
+## 10.1. Riscos negativos
+<p align="justify">São aqueles que, caso ocorram, podem afetar negativamente o projeto. Seguindo uma abordagem baseado no PMBoK será utilizada as seguintes atitudes diante esses riscos.
+
+### 10.1.1. Prevenir 
+<p align="justify">Estratégia de resposta ao risco  para eliminar a ameaça ou proteger o projeto do seu impacto. Envolve a alteração dos planejamentos do projeto de forma a, por exemplo, estender o cronograma ou reduzir o escopo.
+
+### 10.1.2. Transferir
+<p align="justify">Essa estratégia consiste em transferir o impacto e a responsabilidade de resposta da ameaça para terceiros. Nao elimina o risco, nem nega a existência desse risco. Esse esforço por meio de um acordo na maioria das vezes é tirado para terceiros.
+
+### 10.1.3. Mitigar
+<p align="justify">Mitigar o risco é uma estratégia de resposta a riscos onde a equipe trabalha para reduzir a probabilidade de ocorrência do risco e/ou a redução do impacto caso esse risco ocorra. Reduzir a probabilidade de ocorrer o risco é mais eficaz do que tentar reparar o dano causado por um risco.
+
+### 1.1.4. Aceitar
+<p align="justify">Essa estratégia consiste em a equipe reconhecer o risco e não agir, a menos que ele ocorra. Quando qualquer método já exposto  é inviável então essa abordagem deve ser aplicada.
+
+## 10.2. Riscos Positivos
+<p align="justify">São aqueles que caso ocorram podem afetar positivamente o projeto. Seguindo uma abordagem baseada no PMBOK serão utilizadas as seguintes atitudes diante esses riscos.
+
+### 10.2.1. Explorar
+<p align="justify">Essa estratégia tem como objetivo auxiliar a organização a garantir que aquela oportunidade seja concretizada. Isso pode ser alcançado eliminando incertezas associadas aquele risco positivo.
+
+### 10.2.2.  Melhorar
+<p align="justify">Melhorar é uma estratégia utilizada para aumentar a probabilidade e/ou impacto de um risco positivo. Identificar e maximizar os principais fatores que contribuem com esse risco pode aumentar a probabilidade e/ou impacto
+
+### 10.2.3. Compartilhar
+<p align="justify">Compartilhar um risco significa de certa forma uma transferência, parcialmente ou integralmente, da responsabilidade daquele risco ao um terceiro que tenha mais capacidade de explorá-lo.
+
+### 10.2.4. Aceitar
+<p align="justify">Essa estratégia consiste em reconhecer que essa oportunidade existe porém não persegui-la.
+
+
