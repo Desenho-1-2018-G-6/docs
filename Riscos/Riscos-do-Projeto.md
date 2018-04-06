@@ -100,4 +100,57 @@ Segue abaixo a Estrutura Analítica de Riscos definida pela equipe de Gerência.
 ![EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
 [EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
 
+## 4. SWOT
 
+Após a reunião da equipe de Gerência, os seguintes dados foram identificados:
+
+<table>
+  <tr>
+    <td>
+      <center><h3>FORÇAS</h3></center>
+      <p>
+      Integração da equipe
+      <p>
+      Integrante com grande conhecimento de design
+      <p>
+      Equipe de desenvolvimento grande
+      <p>
+      Equipe de desenvolvimento com rápida absorção de conhecimento
+      <p>
+    </td>
+    <td>
+      <center><h3>OPORTUNIDADES</h3></center>
+      <p>
+      Extensão do software implementada por alunos e terceiros
+      <p>
+      O software ser financiado
+      <p>      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center><h3>FRAQUEZAS</h3></center>
+      <p>
+      Pouca experiência com a tecnologia por parte de alguns membros
+      <p>
+      Comunicação de toda equipe (interna / externa)
+    </td>
+    <td>
+    <center><h3>AMEAÇAS</h3></center>
+    <p>
+    Mudança no calendário
+    <p>
+    Perda de membros na equipe
+    <p>
+    Mudança do escopo
+    <p>
+    Atrasos na entrega de atividades
+    <p>
+    Erro de planejamento da equipe
+    <p>
+    Produto não atender ao cliente
+    <p>
+    Perda de equipamentos
+    </td>
+  </tr>
+</table>
