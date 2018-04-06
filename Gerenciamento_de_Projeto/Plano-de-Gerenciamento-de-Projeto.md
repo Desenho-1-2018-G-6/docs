@@ -16,8 +16,7 @@
 
 >[4. Gerenciamento da Equipe](#4-gerenciamento-da-equipe)
 
-
-
+>[5. Planos de Gerenciamento](#5-planos-de-gerenciamento)
 
 ***
 
@@ -103,6 +102,51 @@ Time de desenvolvimento: Cabe ao time executar a sprint, realizando as tarefas d
 
 As reuniões presenciais da equipe serão sempre no horário do almoço de segunda, quarta e sexta e deverão ocorrer nos outros dias reuniões via outro canal de comunicação. Toda segunda será feito uma reunião via hangouts com todo o time para definir o curso da próxima sprint e o andamento da anterior.
 
-  
+
+# 5. Planos de Gerenciamento
+
+## 5.1. Plano de Gerenciamento de Requisitos
+
+Estabelecer o processo e as diretrizes, bem como as variáveis para avaliação e validação dos requisitos de software, além de sua rastreabilidade.
+
+## 5.2. Matriz de Rastreabilidade de Requisitos
+
+É uma ferramenta que tem por finalidade explicitar quais características do projeto/sistema influenciaram na geração de um requisito e seus derivados.
+
+## 5.3. Plano de Gerenciamento da Qualidade
+
+Define métricas e métodos de aferição da qualidade dos entregáveis dentro do projeto, bem como níveis mínimos de aceitabilidade dos indicadores, além de definir um plano de correção e ajuste para qualquer entregável que falhe em se adequar aos padrões definidos.
+
+## 5.4. Requisitos Não-Funcionais
+
+São as características do sistema que definem como o produto será desenvolvido e entregue ao cliente ou usuário final. Inclui características como tecnologias, usabilidade, confiabilidade, segurança, desempenho e disponibilidade, entre outras.
+
+## 5.5. Plano de Gerenciamento do Projeto
+
+Ferramenta que explicita a metodologia de gerenciamento utilizada durante o desenvolvimento e entrega do produto final, bem como todos os planos e documentos de apoio, insumos técnicos e papéis desempenhados.
+
+## 5.6. Plano de Gerenciamento de Tempo/Escopo: Roadmap
+
+ O gerenciamento do tempo possui os processos necessários para gerenciar o término no prazo do projeto. A partir do gerenciamento do escopo, o projeto pode ser controlado e validado. Para melhor organização do time, foi definido o Roadmap inicial do projeto, tendo assim um controle sob as metas de cada sprint.
+
+## 5.7. IStar
+
+Framework para modelagem de requisitos para obter uma melhor compreensão sobre os relacionamentos da organização.
+
+## 5.8. Plano de Gerenciamento de Recursos Humanos
+
+Determina um panorama da equipe que trabalhará sob o projeto.
+
+## 5.9. Plano de Gerenciamento dos Riscos
+
+Define o procedimento que deve ser adotado para gestão, prevenção e mitigação dos riscos.
+
+## 5.10. Plano de Gerenciamento de Configuração de Software
+
+Estabelece as diretrizes de como a acontecerá a gerência de configuração de software.
+
+## 5.11. Plano de Gerenciamento de Comunicação
+
+Define como a comunicação do grupo irá ocorrer. Define ferramentas e finalidade de cada uma.
   
 
