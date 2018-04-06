@@ -13,3 +13,11 @@
 # 4. Prazos
 
 <p align="justify"> O processo de identificar os riscos será feito assim que o plano de gerenciamento de riscos estiver pronto. Com os riscos identificados será feita a análise tanto quantitativa como qualitativa deles, desse ponto será feito um planejamento de respostas aos riscos que será executado de acordo com o estado de cada risco.
+
+# 5. Categoria dos riscos
+
+<p align="justify"> Para categorizar os riscos será utilizado a EAR a seguir.
+
+![EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
+[EAR](https://raw.githubusercontent.com/wiki/Desenho-1-2018-G-6/docs/EARPreview.png)
+
