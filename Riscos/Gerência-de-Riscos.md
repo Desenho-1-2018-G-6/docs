@@ -1,3 +1,9 @@
+# Histórico de Revisão
+
+|    Data    | Versão |                                         Modificação                                        |                Autor                |
+|:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
+| 28/03/2018 | 1.0 | Fazendo o plano de gerencia de projeto  | Thalisson Barreto de Melo Silva e André Bedran |
+
 # 1. Introdução
 
 <p align="justify"> O plano de gerenciamento de riscos é um artefato gerado pela execução do processo de planejar o gerenciamento de riscos. Esse documento descreve como irão ser executadas as atividades relacionadas ao gerenciamento de riscos. O gerenciamento de riscos tem como objetivo aumentar a probabilidade e o impacto de eventos positivos e reduzir a probabilidade e o impacto de eventos negativos. (PMBOK)
