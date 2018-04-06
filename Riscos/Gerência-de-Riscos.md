@@ -26,4 +26,19 @@
 <p align="justify">identificar os ricos é um processo essencial neste gerenciamento pois permite ao time a entendê-los melhor e assim se antecipar aos possíveis eventos que irão ocorrer durante o projeto. Para o projeto foi decidido a utilização de duas técnicas listadas no PMBOK, são elas: Brainstorming e Análise SWOT.
 <p align="justify">No brainstorming irá ocorrer uma reunião onde com o EAR será discutido pelo time todos os possíveis riscos e com a análise SWOT o projeto será avaliado em forças, oportunidades, fraquezas e ameaças.
 
+# 7. Registro dos Riscos
+
+<p align="justify">Os riscos serão registrados em um documento na wiki chamado Riscos, esse artefato irá dividir os riscos em dois grupos, positivos e negativos. Cada risco irá seguir o modelo abaixo.
+
+| ID | Se | Por conta | O impacto será | Categoria EAR |
+--------- | ------ | ------- | ------- | -----------
+
+<p align="justify">Depois os riscos irão ser interpretados de forma a deixar claro como agir caso algum ocorra, por meio do modelo abaixo.
+
+| ID | Impacto |	Probabilidade  |	Prioridade	|  Estratégia  |	Responsável |
+-----| ------- | ----------------- | -------------- | -----------  |  ------------- |
+ xxx | | | | |   
+**Monitoramento** | |
+**Controle** | |
+
 
