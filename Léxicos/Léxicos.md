@@ -37,3 +37,27 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Classificação |   Sujeito   |
 | Impacto(s)    | 1- Visitante acessa uma categoria de produtos<br/>2- Visitante adiciona produto ao carrinho | 
 | Sinônimo(s)   | Não aplica |
+
+### Correio eletrônico
+| Nome          | Correio eletrônico   |
+|:-------------:|:----------:|
+|  Noção        | Funcionalidade exigida pela aplicação para comunicação com o cliente |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- E-mail de confirmação é enviado pelo correio eletrônico para o cliente<br/>2- E-mail informacional/Promocional é enviado pelo correio eletrônico para o cliente| 
+| Sinônimo(s)   | E-mail |
+
+### Login
+| Nome          | Login   |
+|:-------------:|:----------:|
+|  Noção        | Funcionalidade responsável para credenciar o usuário na aplicação |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Cliente realiza login na aplicação<br/>| 
+| Sinônimo(s)   | Iniciar sessão |
+
+### Logout
+| Nome          | Logout   |
+|:-------------:|:----------:|
+|  Noção        | Funcionalidade responsável para finalizar a sessão do usuário na aplicação |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Cliente realiza logoff na aplicação<br/>| 
+| Sinônimo(s)   | Finalizar sessão |
