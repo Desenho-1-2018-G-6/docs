@@ -3,6 +3,7 @@
 |    Data    | Versão |                                         Modificação                                        |                Autor                |
 |:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 06/04/2018 | 1.0 | Estruturando e construindo o documento | Ícaro Oliveira, Guilherme Augusto e Guilherme Lacerda|
+| 09/04/2018 | 1.1 | Adicionando novos casos de uso | Guilherme Lacerda e Thalisson Melo |
 
 # Versão 1
  
@@ -40,3 +41,6 @@
 |    US018    |   Funcional   | Administrador        | excluir um produto |   ele não esteja mais disponível na vitrine  | Could Have | To Do |
 |    US019    |   Funcional   | Administrador        | excluir uma categoria |    ela não esteja mais disponível no site | Could Have | To Do |
 |    US020    |   Funcional   | Cliente        | cancelar uma compra |    o fluxo da compra seja interrompido | Could Have | To Do |
+|    US021    |  Funcional   |  Usuário  | me tornar um administrador | possa gerenciar o site | Must Have | To Do |
+|   US022   | Funcional  |  Usuário  | me tornar um cliente  | possa fazer compras no site | Must Have | To Do |
+|  US023  | Funcional | Administrador | adicionar um novo produto | fique disponível para compra | Must Have | To Do |
