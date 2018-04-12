@@ -86,4 +86,28 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Impacto(s)    | 1- Cliente cria setup<br/>2- Cliente seleciona setup | 
 | Sinônimo(s)   | Não aplica |
 
-### 
+### Brainstorming
+| Nome          | Brainstorming   |
+|:-------------:|:----------:|
+|  Noção        | Técnica de elicitação de requisitos, baseada na rápida sugestão de ideias sem um filtro específico, e subsequente análise das ideias citadas |
+| Classificação | Técnica |
+| Impacto(s)    | Projeto |
+| Sinônimo(s)   | Tempestade cerebral, Idealização dinâmica |
+
+### Rota
+| Nome          | Rota |
+|:-------------:|:----------:|
+|  Noção        | Ponto de acesso de um recurso da aplicação |
+| Classificação | Objeto |
+| Impacto(s)    | Projeto |
+| Sinônimo(s)   | URL, Endpoint, Ponto de acesso |
+
+### Blob
+| Nome          | Blob   |
+|:-------------:|:----------:|
+|  Noção        | Tipo de dado binário genérico |
+| Classificação |   Objeto   |
+| Impacto(s)    | <A Definir> |
+| Sinônimo(s)   | Binário, Arquivo |
+
+###
