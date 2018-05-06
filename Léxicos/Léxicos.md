@@ -2,92 +2,93 @@
 |:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 11/04/2018 | 1.0 | Estrutura básica dos léxicos | Lucas Malta |
 | 12/04/2018 | 1.1 | Adicionando mais léxicos | André Bedran |
+| 06/05/2018 | 1.2 | Adicionando novos léxicos e alterando estrutura | Guilherme Lacerda |
 
 # Léxicos
 Termos responsáveis por esclarecer qualquer dúvida com relação ao significado real/impacto utilizado na wiki do projeto.
 
-### Aplicação
+### 1. Aplicação
 | Nome          | Aplicação   |
 |:-------------:|:----------:|
 |  Noção        | Sistema que gerencia todas as funcionalidades |
 | Classificação |   Sujeito   |
 | Impacto(s)    | 1- Cliente entra na aplicação<br/>2- Cliente utiliza as funcionalidades da aplicação  
-| Sinônimo(s)   | Sistema, aplicação |
+| Sinônimo(s)   | Sistema, plataforma |
 
-### Carrinho
+### 2. Carrinho
 | Nome          | Carrinho   |
 |:-------------:|:----------:|
 |  Noção        |Funcionalidade que permite inserir vários produtos em uma só compra|
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- Cliente adiciona produto ao carrinho| 
+| Impacto(s)    | 1- Cliente adiciona produto ao carrinho|
 | Sinônimo(s)   |Cart|
 
-### Produto
+### 3. Produto
 | Nome          | Produto   |
 |:-------------:|:----------:|
 |  Noção        | Produto oferecido para o cliente pela aplicação |
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- Cliente adiciona produto ao carrinho<br/>2- Cliente favorita produto| 
+| Impacto(s)    | 1- Cliente adiciona produto ao carrinho<br/>2- Cliente favorita produto|
 | Sinônimo(s)   | Product, Mercadoria |
 
 
-### Cliente
+### 4. Cliente
 | Nome          | Cliente   |
 |:-------------:|:----------:|
 |  Noção        | Ator que utiliza as funcionalidades do sistema |
 | Classificação |   Sujeito   |
-| Impacto(s)    | 1- Cliente adiciona produto ao carrinho<br/>2- Cliente favorita produto<br/>3- Cliente cria conta<br/>4- Cliente realia pagamento| 
+| Impacto(s)    | 1- Cliente adiciona produto ao carrinho<br/>2- Cliente favorita produto<br/>3- Cliente cria conta<br/>4- Cliente realia pagamento|
 | Sinônimo(s)   | Usuário |
 
-### Visitante
+### 5. Visitante
 | Nome          | Visitante   |
 |:-------------:|:----------:|
 |  Noção        | Ator que utiliza parte das funcionalidades do sistema, possível futuro cliente |
 | Classificação |   Sujeito   |
-| Impacto(s)    | 1- Visitante acessa uma categoria de produtos<br/>2- Visitante adiciona produto ao carrinho | 
+| Impacto(s)    | 1- Visitante acessa uma categoria de produtos<br/>2- Visitante adiciona produto ao carrinho |
 | Sinônimo(s)   | Não aplica |
 
-### Admin
+### 6. Admin
 | Nome          | Admin   |
 |:-------------:|:----------:|
 |  Noção        | Ator que utiliza funcionalidades voltadas para a administração da aplicação |
 | Classificação |   Sujeito   |
-| Impacto(s)    | 1- Admin adiciona produtos novos<br/>2- Admin remove produto<br/>3- Admin realiza controle de estoque | 
+| Impacto(s)    | 1- Admin adiciona produtos novos<br/>2- Admin remove produto<br/>3- Admin realiza controle de estoque |
 | Sinônimo(s)   | Administrador, responsável pela aplicação |
 
-### Correio eletrônico
+### 7. Correio eletrônico
 | Nome          | Correio eletrônico   |
 |:-------------:|:----------:|
 |  Noção        | Funcionalidade exigida pela aplicação para comunicação com o cliente |
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- E-mail de confirmação é enviado pelo correio eletrônico para o cliente<br/>2- E-mail informacional/Promocional é enviado pelo correio eletrônico para o cliente| 
+| Impacto(s)    | 1- E-mail de confirmação é enviado pelo correio eletrônico para o cliente<br/>2- E-mail informacional/Promocional é enviado pelo correio eletrônico para o cliente|
 | Sinônimo(s)   | E-mail |
 
-### Login
+### 8. Login
 | Nome          | Login   |
 |:-------------:|:----------:|
 |  Noção        | Funcionalidade responsável para credenciar o usuário na aplicação |
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- Cliente realiza login na aplicação<br/>| 
+| Impacto(s)    | 1- Cliente realiza login na aplicação<br/>|
 | Sinônimo(s)   | Iniciar sessão |
 
-### Logout
+### 9. Logout
 | Nome          | Logout   |
 |:-------------:|:----------:|
 |  Noção        | Funcionalidade responsável para finalizar a sessão do usuário na aplicação |
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- Cliente realiza logoff na aplicação<br/>| 
+| Impacto(s)    | 1- Cliente realiza logoff na aplicação<br/>|
 | Sinônimo(s)   | Finalizar sessão |
 
-### Setup
+### 10. Setup
 | Nome          | Setup   |
 |:-------------:|:----------:|
 |  Noção        | Conjunto de produtos que formam um computador |
 | Classificação |   Objeto   |
-| Impacto(s)    | 1- Cliente cria setup<br/>2- Cliente seleciona setup | 
+| Impacto(s)    | 1- Cliente cria setup<br/>2- Cliente seleciona setup |
 | Sinônimo(s)   | Não aplica |
 
-### Brainstorming
+### 11. Brainstorming
 | Nome          | Brainstorming   |
 |:-------------:|:----------:|
 |  Noção        | Técnica de elicitação de requisitos, baseada na rápida sugestão de ideias sem um filtro específico, e subsequente análise das ideias citadas |
@@ -95,7 +96,7 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Impacto(s)    | Projeto |
 | Sinônimo(s)   | Tempestade cerebral, Idealização dinâmica |
 
-### Rota
+### 12. Rota
 | Nome          | Rota |
 |:-------------:|:----------:|
 |  Noção        | Ponto de acesso de um recurso da aplicação |
@@ -103,7 +104,7 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Impacto(s)    | Projeto |
 | Sinônimo(s)   | URL, Endpoint, Ponto de acesso |
 
-### Blob
+### 13. Blob
 | Nome          | Blob   |
 |:-------------:|:----------:|
 |  Noção        | Tipo de dado binário genérico |
@@ -111,4 +112,28 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Impacto(s)    | <A Definir> |
 | Sinônimo(s)   | Binário, Arquivo |
 
-###
+### 14. Registrar
+
+| Nome          | Registrar   |
+|:-------------:|:----------:|
+|  Noção        | Funcionalidade responsável por registrar o usuário na plataforma |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Cliente se cadastra na plataforma|
+| Sinônimo(s)   | Cadastrar |
+
+### 15. Observação Participativa
+| Nome          | Brainstorming   |
+|:-------------:|:----------:|
+|  Noção        | Técnica de elicitação de requisitos, baseada em uma análise e um estudo feito pelo Engenheiro de Software para conseguir elicitar os requisitos com base na imersão em outras plataformas. |
+| Classificação | Técnica |
+| Impacto(s)    | Projeto |
+| Sinônimo(s)   | - |
+
+### 16. Elicitar
+
+| Nome          | Registrar   |
+|:-------------:|:----------:|
+|  Noção        | A elicitação é um processo iterativo, com uma contínua validação de uma atividade para outra.  |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- identificar requisitos que irá compor o projeto |
+| Sinônimo(s)   | Levantar, elicitar requisitos |

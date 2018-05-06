@@ -2,7 +2,7 @@
  Projeto destinado para a documentação do trabalho de Desenho e Arquitetura de Software (<i>e-commerce</i>). </p>
 
 <p align="justify"> &emsp;&emsp;
- Link para toda a [documentação](https://github.com/Desenho-1-2018-G-6/docs/wiki/). </p>
+ Link para toda a documentação: https://github.com/Desenho-1-2018-G-6/docs/wiki. </p>
 
 # Equipe
 
