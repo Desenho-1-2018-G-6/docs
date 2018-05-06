@@ -164,3 +164,30 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Classificação |   Objeto   |
 | Impacto(s)    | 1- O e-mail tem uma senha associada. <br><br>2- Confirmação de registro por e-mail.<br><br> 3- Permissão de edição de informações pessoais do usuário. |
 | Sinônimo(s)   | Endereço eletrônico |
+
+### 20. Botão
+
+| Nome          | Botão   |
+|:-------------:|:----------:|
+|  Noção        | O botão é uma caixa que ao ser clicado, executa alguma ação definida. Utilização para executar ações dentro do site, como: Login, Registrar.  |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Caixa que permite uma maior interação do usuario com a aplicação.<br><br>2- Utilização para disparar acões. |
+| Sinônimo(s)   | Button |
+
+### 21. Mensagem
+
+| Nome          | Mensagem   |
+|:-------------:|:----------:|
+|  Noção        | Tudo que é transmitido do emissor ao receptor, via texto, imagem, vídeos. Comunicação direta entre dois ou mais usuários.  |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Ferramenta que permite a notifição entre o sistema e os administradores para notificar sobre status de algum acontecimento. |
+| Sinônimo(s)   | Notificação |
+
+### 22. Clicar
+
+| Nome          | Clicar   |
+|:-------------:|:----------:|
+|  Noção        | Ação performática que consiste em apertar um botão sobre um lugar específico na tela, esperando alguma reação diretamente proporcional ao lugar onde o clique foi feito.  |
+| Classificação |   Verbo   |
+| Impacto(s)    | 1- Uma mudança qualquer no estado do sistema gerada pelo click em um botão. |
+| Sinônimo(s)   | Click |
