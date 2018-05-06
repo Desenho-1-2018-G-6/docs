@@ -122,7 +122,7 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 | Sinônimo(s)   | Cadastrar |
 
 ### 15. Observação Participativa
-| Nome          | Brainstorming   |
+| Nome          | Observação Participativa  |
 |:-------------:|:----------:|
 |  Noção        | Técnica de elicitação de requisitos, baseada em uma análise e um estudo feito pelo Engenheiro de Software para conseguir elicitar os requisitos com base na imersão em outras plataformas. |
 | Classificação | Técnica |
@@ -131,9 +131,36 @@ Termos responsáveis por esclarecer qualquer dúvida com relação ao significad
 
 ### 16. Elicitar
 
-| Nome          | Registrar   |
+| Nome          | Elicitar   |
 |:-------------:|:----------:|
 |  Noção        | A elicitação é um processo iterativo, com uma contínua validação de uma atividade para outra.  |
 | Classificação |   Objeto   |
 | Impacto(s)    | 1- identificar requisitos que irá compor o projeto |
 | Sinônimo(s)   | Levantar, elicitar requisitos |
+
+### 17. Sprint
+
+| Nome          | Sprint   |
+|:-------------:|:----------:|
+|  Noção        | Sprint representa um tempo dentro do qual um conjunto de atividades deve ser executado.   |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- Delimita um tempo ideal para que o trabalho seja dividido em tarefas, as quais devem ser concluídas nesse período de tempo pré-estabelecido. Assim, torna o trabalho mais eficiente |
+| Sinônimo(s)   | - |
+
+### 18. Perfil
+
+| Nome          | Perfil   |
+|:-------------:|:----------:|
+|  Noção        | Acessar as ferramentas de usuários, disponíveis para edição e atualização de suas informações.   |
+| Classificação |   Estado   |
+| Impacto(s)    | 1- Alteração de informações pessoais. |
+| Sinônimo(s)   | Profile |
+
+### 19. E-mail
+
+| Nome          | E-mail   |
+|:-------------:|:----------:|
+|  Noção        | Endereço eletrônico com a função de realizar a confirmação do cadastro no site ou permitir a edição de informações pessoais do usuário que tem o e-mail associado.   |
+| Classificação |   Objeto   |
+| Impacto(s)    | 1- O e-mail tem uma senha associada. <br><br>2- Confirmação de registro por e-mail.<br><br> 3- Permissão de edição de informações pessoais do usuário. |
+| Sinônimo(s)   | Endereço eletrônico |
