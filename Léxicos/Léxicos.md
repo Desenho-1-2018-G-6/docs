@@ -2,7 +2,56 @@
 |:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 11/04/2018 | 1.0 | Estrutura básica dos léxicos | Lucas Malta |
 | 12/04/2018 | 1.1 | Adicionando mais léxicos | André Bedran |
-| 06/05/2018 | 1.2 | Adicionando novos léxicos e alterando estrutura | Guilherme Lacerda |
+| 06/05/2018 | 1.2 | Adicionando novos léxicos ealterando estrutura | Guilherme Lacerda |
+| 06/05/2018 | 1.3 | Adicionando sumário | Guilherme Lacerda |
+
+
+# Sumário
+
+>[1. Aplicação](#1-aplicação)
+
+>[2. Carrinho](#2-carrinho)
+
+>[3. Produto](#3-produto)
+
+>[4. Cliente](#4-cliente)
+
+>[5. Visitante](#5-visitante)
+
+>[6. Admin](#6-admin)
+
+>[7. Correio Eletrônico](#7-correio-eletrônico)
+
+>[8. Login](#8-login)
+
+>[9. Logout](#9-logout)
+
+>[10. Setup](#10-setup)
+
+>[11. Brainstorm](#11-brainstorm)
+
+>[12. Rota](#12-rota)
+
+>[13. Blob](#13-blob)
+
+>[14. Registrar](#14-registrar)
+
+>[15. Observação Participativa](#15-observação-participativa)
+
+>[16. Elicitar](#16-elicitar)
+
+>[17. Sprint](#17-sprint)
+
+>[18. Perfil](#18-perfil)
+
+>[19. E-mail](#19-e---mail)
+
+>[20. Botão](#20-botão)
+
+>[21. Mensagem](#21-mensagem)
+
+>[22. Clicar](#22-clicar)
+
 
 # Léxicos
 Termos responsáveis por esclarecer qualquer dúvida com relação ao significado real/impacto utilizado na wiki do projeto.
