@@ -1,6 +1,7 @@
 |    Data    | Versão |                                         Modificação                                        |                Autor                |
 |:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 11/04/2018 | 1.0 | Estrutura básica dos léxicos | Lucas Malta |
+| 12/04/2018 | 1.1 | Adicionando mais léxicos | André Bedran |
 
 # Léxicos
 Termos responsáveis por esclarecer qualquer dúvida com relação ao significado real/impacto utilizado na wiki do projeto.
