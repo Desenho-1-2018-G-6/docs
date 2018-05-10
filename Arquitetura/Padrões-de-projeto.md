@@ -14,9 +14,8 @@ pode ter novos atributos e/ou métodos sem a necessidade de deletá-lo/recriá-l
 
 Esse padrão foi introduzido em nossa aplicação no contexto de Usuário - Administrador. Um usuário, ao ser criado, contém os
 atributos e métodos somente de um usuário comum. Contudo, esse mesmo usuário pode adquirir o status de um administrador, dada
-as motivações do dono da aplicação. Sendo assim, é necessário que, dinamicamente, esse usuário adquira o status de administrador,
- herdando assim os atributos e métodos relacionados ao mesmo.
- #falar sobre outras possíveis escolhas
+as motivações do dono da aplicação. Sendo assim, é necessário que, dinamicamente, esse usuário adquira o status de administrador, herdando assim os atributos e métodos relacionados ao mesmo. Outros padrões poderiam ser aplicados, como o facade ou até mesmo um padrão de criação como o builder, mas achamos a ideia do Decorator mais interessante, pela possibilidade de adicionar/remover métodos e atributos dinamicamente à um objeto.
+
 
 Dada as limitações do framework/linguagem, a aplicação do padrão decorator teve algumas mudanças para que o mesmo se adequa-se 
 ao ambiente. A primeira limitação se refere à maneira que o decorator injeta novas "subclasses" à classe principal. Como a herança
@@ -40,5 +39,25 @@ do rails é limitada (Além de não se existir uma classe abstrata propriamente 
     t.string   "user_type"
   end
 ```
+Adicionado o tipo de usuário no campo, o mesmo "herda" os métodos e atributos da classe definida. Desse modo, definimos:
+```Ruby
+class UserDecorator < Draper::Decorator
+  include Draper::LazyHelpers
+  delegate_all
 
-#todo
+  def show_sidebar
+    if current_user.user_type.include? "admin"
+      render :partial => "users/admin_sidebar"
+    end
+  end
+
+  def show_edit_buttons
+    if current_user.user_type.include? "admin"
+      return true
+    else
+      return false
+    end
+  end
+
+```
+Esses 2 métodos são para usuários que foram decorados com a classe de Admin. Esses usuários podem utilizar os métodos show_sidebar e show_edit_buttons, que são métodos que liberam o uso de outras funcionalidades específicas para administrador, como adição/remoção de produtos.
