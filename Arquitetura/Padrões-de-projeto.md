@@ -16,6 +16,8 @@ Esse padrão foi introduzido em nossa aplicação no contexto de Usuário - Admi
 atributos e métodos somente de um usuário comum. Contudo, esse mesmo usuário pode adquirir o status de um administrador, dada
 as motivações do dono da aplicação. Sendo assim, é necessário que, dinamicamente, esse usuário adquira o status de administrador, herdando assim os atributos e métodos relacionados ao mesmo. Outros padrões poderiam ser aplicados, como o facade ou até mesmo um padrão de criação como o builder, mas achamos a ideia do Decorator mais interessante, pela possibilidade de adicionar/remover métodos e atributos dinamicamente à um objeto.
 
+![](https://github.com/Desenho-1-2018-G-6/docs/blob/master/Arquitetura/Diagrama_de_Classes/decorator.png?raw=true)
+
 
 Dada as limitações do framework/linguagem, a aplicação do padrão decorator teve algumas mudanças para que o mesmo se adequa-se 
 ao ambiente. A primeira limitação se refere à maneira que o decorator injeta novas "subclasses" à classe principal. Como a herança
