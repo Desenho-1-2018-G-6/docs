@@ -14,6 +14,17 @@
 >* [2.3. US017 - O usuário deve ser capaz de visualizar o produto](#23-us017---o-usuário-deve-ser-capaz-de-visualizar-o-produto)
 >* [2.5. O usuário deve ser capaz de visualizar cada categoria separadamente](#25-o-usuário-deve-ser-capaz-de-visualizar-cada-categoria-separadamente)
 >* [2.6. US003 - O usuário deve ser capaz de acessar o feed de conteúdo](#26-us003---o-usuário-deve-ser-capaz-de-acessar-o-feed-de-conteúdo)
+>* [2.7. US009 - O usuário deve ser capaz de visualizar as informações do produto](#27-us009---o-usuário-deve-ser-capaz-de-visualizar-as-informações-do-produto)
+>* [2.8. US008 - O usuário deve ser capaz de realizar buscas de produtos por nome ou categoria](#28-us008---o-usuário-deve-ser-capaz-de-realizar-buscas-de-produtos-por-nome-ou-categoria)
+>* [2.9. US006 - O usuário deve ser capaz de adicionar produtos ao carrinho](#9-us006---o-usuário-deve-ser-capaz-de-adicionar-produtos-ao-carrinho)
+>* [2.10. US011 - O usuário deve ser capaz de alterar as quantidades do produto no carrinho](#210-us011---o-usuário-deve-ser-capaz-de-alterar-as-quantidades-do-produto-no-carrinho)
+>* [2.11. US014 - O usuário deve ser capaz de excluir produtos do carrinho](#211-us014---o-usuário-deve-ser-capaz-de-excluir-produtos-do-carrinho)
+>* [2.12. US015 - O usuário como cliente deve ser capaz de realizar o pagamento do carrinho](#212-us015---usuário-como-cliente-deve-ser-capaz-de-realizar-o-pagamento-do-carrinho)
+>* [2.13. O perfil do usuário cadastrado deve armazenar nome data de nascimento sexo CPF telefone](#213-o-perfil-do-usuário-cadastrado-deve-armazenar-nome-data-de-nascimento-sexo-CPF-telefone)
+>* [2.14. US012 - O usuário como cliente deve ser capaz de consultar os seus pedidos](#214-us012---o-usuário-como-cliente-deve-ser-capaz-de-consultar-os-seus-pedidos)
+>* [2.19. US004 - O usuário como cliente deve ser capaz de alterar os dados cadastrais](#219-us004---o-usuário-como-cliente-deve-ser-capaz-de-alterar-os-dados-cadastrais)
+>* [2.22. O sistema deve ser capaz de armazenar todos os produtos com suas devidas informações](#222-o-sistema-deve-ser-capaz-de-armazenar-todos-os-produtos-com-suas-devidas-informações)
+>* [2.23. US023 - O produto deve possuir nome especificação preço quantidade em estoque e categoria](#223-us023---o-produto-deve-possuir-nome-especificação-preço-quantidade-em-estoque-e-categoria)
 
 # 1. Introdução
 
