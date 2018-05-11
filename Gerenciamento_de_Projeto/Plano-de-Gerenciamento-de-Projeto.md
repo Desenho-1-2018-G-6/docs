@@ -3,6 +3,7 @@
 |    Data    | Versão |                                         Modificação                                        |                Autor                |
 |:----------:|:------:|:----------------------------------------------------------------------------------------:|:-----------------------------------:|
 | 28/03/2018 | 1.0 | Fazendo o plano de gerencia de projeto  | Thalisson Barreto de Melo Silva e André Bedran |
+| 10/05/2018 | 2.0 | Adicionando artefatos RUP à metodologia  | Ateldy Brasil |
 
 ***
 
@@ -26,19 +27,21 @@
 
 Este plano de gerenciamento de projeto documenta as etapas do ciclo de vida do projeto, ou seja, onde é descrito a metodologia de desenvolvimento, o gerenciamento da equipe segundo as metodologias detalhando os papéis e a forma de trabalho com os requisitos e lista os planos de gerenciamento bem como os motivo de se fazer cada um deles.
 
-  
-
 # 2. Metodologia da Equipe
 
-A metodologia escolhida pela equipe utiliza elementos ágeis clássicos, como sprints, histórias de usuário, em particular, conceitos da metodologia SCRUM (como as daily meetings), do processo Extreme Programming(como pareamentos) e da filosofia Lean(como kanban). O processo elaborado foi adaptado para gerenciar as mudanças de requisitos e para haver entregas contínuas, uma das características ágeis, e sempre novas funcionalidades nessas entregas, uma característica do Lean. Alguns documentos não foram considerados muito relevantes para a equipe como os planos de custo, de aquisições, e o diagrama de casos de uso, entretanto alguns artefatos foram mantidos, como o documento de visão, diagrama de classes e as especificações do caso de uso.
+A metodologia escolhida pela equipe utiliza elementos ágeis clássicos, como sprints, histórias de usuário, em particular, conceitos da metodologia **SCRUM** (como as daily meetings), do processo **Extreme Programming** (como pareamentos) e da filosofia **Lean** (como kanban). Aliado a esses elementos, foi considerado utilizar de artefatos da metodologia Rational Software Corporation (**RUP**). O processo elaborado foi adaptado para gerenciar as mudanças de requisitos e para haver entregas contínuas, uma das características ágeis, e sempre novas funcionalidades nessas entregas, uma característica do **Lean**. Alguns documentos não foram considerados muito relevantes para a equipe como os planos de custo, de aquisições, e o diagrama de casos de uso, entretanto alguns artefatos foram mantidos, como o documento de visão, diagrama de classes e as especificações do caso de uso.
 
-  
-
-Da metodologia SRUM a equipe aproveitou todo o gerenciamento com exceção do papel do product owner, ou seja, o processo seguirá o processo SCRUM com scrum master e time de desenvolvimento, e atrelado a isso também ocorrerão pareamentos, elemento do extreme programming, entre os membros da equipe sempre em duplas com o objetivo de disseminar o conhecimento. Além disso alguns elementos da filosofia Lean foram aderidos, o kanban para manter um controle do estado atual do projeto, além da entrega de uma funcionalidade nova toda sprint.
-
-  
+Da metodologia **SCRUM** a equipe aproveitou todo o gerenciamento com exceção do papel do product owner, ou seja, o processo seguirá o processo **SCRUM** com scrum master e time de desenvolvimento, e atrelado a isso também ocorrerão pareamentos, elemento do **extreme programming**, entre os membros da equipe sempre em duplas com o objetivo de disseminar o conhecimento. Além disso alguns elementos da filosofia **Lean** foram aderidos, o kanban para manter um controle do estado atual do projeto, além da entrega de uma funcionalidade nova toda sprint.
 
 No processo é feito o levantamento dos requisitos, por meio de técnicas de duas técnicas de elicitação observação participativa e brainstorming, para que com as informações obtidas seja composto o backlog do produto em forma de features. As features serão quebradas em histórias de usuários para comporem o backlog das sprints. As sprints terão duração de uma semana com reuniões diárias e revisão e retrospectiva ao final do período.
+
+Da metodologia **RUP**, foi decidido adicionar artefatos para serem produzidos e usados durante os projetos. Os artefatos são usados para capturar e transmitir informações do projeto. Eles podem ser documentos, diagramas e modelagens. Os artefatos escolhidos deste framework foram:
+
+[Documento de Visão](https://github.com/Desenho-1-2018-G-6/docs/wiki/Documento-de-Vis%C3%A3o):  visa o entendimento geral do projeto, ao definir as necessidades para o desenvolvimento do projeto em alto nível de abstração;
+
+[Documento de Arquitetura](https://github.com/Desenho-1-2018-G-6/docs/wiki/Documento-de-Arquitetura): visa atingir um entendimento mútuo entre os desenvolvedores do projeto, de forma que seja entendida a estrutura utilizada para desenvolver o software;
+
+[Diagrama de Classe](https://github.com/Desenho-1-2018-G-6/docs/wiki/Diagrama-de-Classes): dá a visão de implementação do projeto aos desenvolvedores.
 
 # 3. Ciclo de Vida do Projeto 
 
@@ -102,6 +105,8 @@ Time de desenvolvimento: Cabe ao time executar a sprint, realizando as tarefas d
 
 As reuniões presenciais da equipe serão sempre no horário do almoço de segunda, quarta e sexta e deverão ocorrer nos outros dias reuniões via outro canal de comunicação. Toda segunda será feito uma reunião via hangouts com todo o time para definir o curso da próxima sprint e o andamento da anterior.
 
+  
+  
 
 # 5. Planos de Gerenciamento
 
@@ -127,7 +132,7 @@ Ferramenta que explicita a metodologia de gerenciamento utilizada durante o dese
 
 ## 5.6. Plano de Gerenciamento de Tempo/Escopo: Roadmap
 
- O gerenciamento do tempo possui os processos necessários para gerenciar o término no prazo do projeto. A partir do gerenciamento do escopo, o projeto pode ser controlado e validado. Para melhor organização do time, foi definido o Roadmap inicial do projeto, tendo assim um controle sob as metas de cada sprint.
+O gerenciamento do tempo possui os processos necessários para gerenciar o término no prazo do projeto. A partir do gerenciamento do escopo, o projeto pode ser controlado e validado. Para melhor organização do time, foi definido o Roadmap inicial do projeto, tendo assim um controle sob as metas de cada sprint.
 
 ## 5.7. IStar
 
@@ -148,5 +153,3 @@ Estabelece as diretrizes de como a acontecerá a gerência de configuração de 
 ## 5.11. Plano de Gerenciamento de Comunicação
 
 Define como a comunicação do grupo irá ocorrer. Define ferramentas e finalidade de cada uma.
-  
-
