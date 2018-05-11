@@ -84,3 +84,55 @@ Através de um botão de acesso que por todos os sites investigados utilizam da 
 ![produtos-pichau](https://user-images.githubusercontent.com/26297247/39894746-42d777f2-547e-11e8-9dae-298be531481c.png)
 
 [Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.7. US009 - O usuário deve ser capaz de visualizar as informações do produto
+
+O usuário consegue acessar as informações do produto clicando no mesmo após encontrá-lo via feed de conteúdo ou pesquisa.
+
+![screenshot from 2018-05-09 22-33-49](https://user-images.githubusercontent.com/26297247/39895290-0f09bf96-5480-11e8-895c-e52098783954.png)
+
+![screenshot from 2018-05-09 22-33-59](https://user-images.githubusercontent.com/26297247/39895292-10214e6c-5480-11e8-973b-be05ade6ba32.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.8. US008 - O usuário deve ser capaz de realizar buscas de produtos por nome ou categoria
+
+A partir de um campo de pesquisa o usuário consegue realizar buscas com palavras chaves assim relaciona um leque de produtos referentes as palavras digitadas.
+
+![screenshot from 2018-05-09 22-34-35](https://user-images.githubusercontent.com/26297247/39895347-443d87d8-5480-11e8-949f-a205d6204ec3.png)
+
+![screenshot from 2018-05-09 22-34-42](https://user-images.githubusercontent.com/26297247/39895348-44622b56-5480-11e8-9a0f-5680c6e578db.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.9. US006 - O usuário deve ser capaz de adicionar produtos ao carrinho
+
+A partir dos botões respecitivamente Comprar e Adicionar ao carrinho o usuário consegue adicionar os produtos que quer para o carrinho. Podendo continuar a compra no site não interrompendo sua navegação.
+
+![screenshot from 2018-05-09 22-34-58](https://user-images.githubusercontent.com/26297247/39895529-04aebda2-5481-11e8-9407-7875494a5e24.png)
+
+![screenshot from 2018-05-09 22-35-09](https://user-images.githubusercontent.com/26297247/39895532-0648ee44-5481-11e8-9b4a-93f477fd9f37.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.10. US011 - O usuário deve ser capaz de alterar as quantidades do produto no carrinho
+
+É permitido que o usuário altere a quantidade dos produtos que foram inseridos no carrinho dentro mesmo do carrinho.
+
+![screenshot from 2018-05-09 22-35-35](https://user-images.githubusercontent.com/26297247/39895703-93dc159c-5481-11e8-93ec-897bd40773bc.png)
+
+![screenshot from 2018-05-09 22-35-50](https://user-images.githubusercontent.com/26297247/39895706-95abf36a-5481-11e8-8d30-eeeb15b63a43.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.11. US014 - O usuário deve ser capaz de excluir produtos do carrinho
+
+Torna possível que o usuário exclua produtos do carrinho adicionados por ele.
+
+
+![screenshot from 2018-05-09 22-35-35](https://user-images.githubusercontent.com/26297247/39895703-93dc159c-5481-11e8-93ec-897bd40773bc.png)
+
+![screenshot from 2018-05-09 22-35-50](https://user-images.githubusercontent.com/26297247/39895706-95abf36a-5481-11e8-8d30-eeeb15b63a43.png)
+
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
