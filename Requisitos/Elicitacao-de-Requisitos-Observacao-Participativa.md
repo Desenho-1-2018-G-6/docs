@@ -136,3 +136,36 @@ Torna possível que o usuário exclua produtos do carrinho adicionados por ele.
 
 
 [Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+
+## 2.12. US015 - O usuário como cliente deve ser capaz de realizar o pagamento do carrinho
+
+Para a realização do pagamento o usuário deve estar logado assim se tornando um cliente.
+
+![screenshot from 2018-05-10 22-47-36](https://user-images.githubusercontent.com/26297247/39902398-2f4cf9ac-54a4-11e8-84d0-2485abca22aa.png)
+
+![screenshot from 2018-05-10 22-47-43](https://user-images.githubusercontent.com/26297247/39902399-2f8b50d0-54a4-11e8-91c3-db5ee7a185d8.png)
+
+![screenshot from 2018-05-10 22-47-20](https://user-images.githubusercontent.com/26297247/39902397-2f254178-54a4-11e8-98c7-f15aac303c0b.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.13. O perfil do usuário cadastrado deve armazenar nome data de nascimento sexo CPF telefone
+
+O usuário pode acessar o seu perfil com os seguintes dados cadastrais além de poder editá-los.
+
+![cadastro-chipart](https://user-images.githubusercontent.com/26297247/39894240-918426cc-547c-11e8-8ba8-203040b5b350.png)
+
+![cadastro-pichau](https://user-images.githubusercontent.com/26297247/39894257-a194173e-547c-11e8-9a76-7481402c3b57.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.14. US012 - O usuário como cliente deve ser capaz de consultar os seus pedidos
+
+O usuário como cliente consegue acessar todos os pedidos já finalizados na plataforma.
+
+![screenshot from 2018-05-10 22-53-02](https://user-images.githubusercontent.com/26297247/39902547-efd3da38-54a4-11e8-8dc7-27142a7db96e.png)
+
+![screenshot from 2018-05-10 22-52-44](https://user-images.githubusercontent.com/26297247/39902548-f0e1ad7e-54a4-11e8-9b21-bbda54a34a5d.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
