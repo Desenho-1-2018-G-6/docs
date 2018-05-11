@@ -63,3 +63,66 @@ class UserDecorator < Draper::Decorator
 
 ```
 Esses 2 métodos são para usuários que foram decorados com a classe de Admin. Esses usuários podem utilizar os métodos show_sidebar e show_edit_buttons, que são métodos que liberam o uso de outras funcionalidades específicas para administrador, como adição/remoção de produtos.
+
+## 2 - State
+
+O padrão de projeto State visa armazenar o estado de um objeto da aplicação para que este defina uma mudança no comportamento do objeto de acordo com seu o estado.
+
+Este padrão foi inserido na nossa aplicação no contexto do estado do carrinho, pois este tem um comportamento diferente se estiver cheio ou vazio, e futuramente terá o estado de em pagamento e de pagamento finalizado, cada um desses estados resulta em mostar para o usuário diferentes informações.
+
+Se não houver itens no carrinho a seguinte mensagem aparece: 
+
+"Seu carrinho está vazio, por farvor, volte e adicione produtos."
+
+se houver produtos no carrinho eles são listados.
+
+Esse padrão é aplicado da seguinte forma:
+
+Há uma classe mãe chamada Cart que possui o método "status", o qual é sobrescrito pelas classes filhas InProgressState e EmptyState. Esse método sobrescrito retornam uma string com o estado atual, e esse estado define o comportamento do objeto do carrinho.
+
+OrderStatus class:
+
+```Ruby
+
+class Cart < ActiveRecord::Base
+
+  def status
+    nil
+  end
+
+end
+
+```
+InProgressState class:
+
+```Ruby
+
+class InProgressState < Cart
+
+    def status
+        "In Progress"
+    end
+end
+
+```
+EmptyState:
+
+```Ruby
+
+class EmptyState < Cart
+
+    def status
+        "Empty"
+    end
+end
+
+```
+
+Diagrama: 
+
+![Diagrama](https://i.imgur.com/xgWSijV.png)
+
+[Diagrama](https://i.imgur.com/xgWSijV.png)
+
+
+
