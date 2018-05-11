@@ -32,3 +32,7 @@
 ![richpicture_cliente](https://user-images.githubusercontent.com/26308278/39914801-8296bf02-54dc-11e8-825d-d58c3df17b0f.jpg)
 
 &emsp;&emsp;Tal richpicture procura abordar, de forma geral, todo o processo que o cliente realiza no contexto do ecommerce. Procurou-se abordar também os tipos de público que estariam sendo abordados no contexto do ecommerce, tratando-os como público alvo. Além disso, foi abordado as funcionalidades existente para eles, como a possibilidade de construção de um carrinho de compras, onde cada usuário possui um carrinho de compras, tendo acesso, consequentemente, a produtos que podem ser adicionados nesse carrinho. Abordando princípios de usabilidade, é tratado a facilidade do fluxo tanto no contexto de visualização de produtos quanto no contexto do pesquisa deles.
+
+![richpicture_carrinho](https://user-images.githubusercontent.com/26308278/39914806-8587aec4-54dc-11e8-888b-e4697bc31302.jpg)
+
+&emsp;&emsp;Relacionado ao carrinho, foi abordado um richpicture simples, abordando as principais características dele. Primeiramente, tem a ideia adicionar produtos que deseja realizar a compra e remover, caso os produtos adicionados não sejam mais necessários para a compra. E, relacionado a essa ideia, existe a opção para editar determinada quantidade de um produto que já esteja adicionado, possibilitando o usuário a comprar mais de um produto do mesmo tipo de forma fácil e simples.
