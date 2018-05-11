@@ -36,3 +36,7 @@
 ![richpicture_carrinho](https://user-images.githubusercontent.com/26308278/39914806-8587aec4-54dc-11e8-888b-e4697bc31302.jpg)
 
 &emsp;&emsp;Relacionado ao carrinho, foi abordado um richpicture simples, abordando as principais características dele. Primeiramente, tem a ideia adicionar produtos que deseja realizar a compra e remover, caso os produtos adicionados não sejam mais necessários para a compra. E, relacionado a essa ideia, existe a opção para editar determinada quantidade de um produto que já esteja adicionado, possibilitando o usuário a comprar mais de um produto do mesmo tipo de forma fácil e simples.
+
+![richpicture_montarsetup](https://user-images.githubusercontent.com/26308278/39914810-8759593c-54dc-11e8-94d7-3aeb91454727.jpg)
+
+&emsp;&emsp;Relacionado a funcionalidade extra da aplicação, que aborda um diferencial entre outros ecommerces, existe a funcionalidade de montar setup. Esta funcionalidade diz respeito ao cliente conseguir montar um computador de forma mais fácil, associando várias peças a partir de categorias, chegando em um computador completo, podendo haver opções para o incremento de periféricos juntamente com o setup do computador.
