@@ -169,3 +169,34 @@ O usuário como cliente consegue acessar todos os pedidos já finalizados na pla
 ![screenshot from 2018-05-10 22-52-44](https://user-images.githubusercontent.com/26297247/39902548-f0e1ad7e-54a4-11e8-9b21-bbda54a34a5d.png)
 
 [Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+
+## 2.19. US004 - O usuário como cliente deve ser capaz de alterar os dados cadastrais
+
+O usuário pode acessar o seu perfil com os seguintes dados cadastrais além de poder editá-los.
+
+![cadastro-chipart](https://user-images.githubusercontent.com/26297247/39894240-918426cc-547c-11e8-8ba8-203040b5b350.png)
+
+![cadastro-pichau](https://user-images.githubusercontent.com/26297247/39894257-a194173e-547c-11e8-9a76-7481402c3b57.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.22. O sistema deve ser capaz de armazenar todos os produtos com suas devidas informações
+
+O sistema deve ser capaz de armazenar em banco todos os produtos cadastrados pelo administrador. Podendo o mesmo fazer qualquer operação disponibilizada no produto. Assim deverá guardar todas as informações.
+
+![produtos-chipart](https://user-images.githubusercontent.com/26297247/39894798-6b3ec06a-547e-11e8-99e6-fd334996a53e.png)
+
+![produtos-pichau](https://user-images.githubusercontent.com/26297247/39894746-42d777f2-547e-11e8-9dae-298be531481c.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
+
+## 2.23. US023 - O produto deve possuir nome especificação preço quantidade em estoque e categoria
+
+Os produtos cadastrados pelo administrador deve possuir os campos desejados.
+
+![produtos-chipart](https://user-images.githubusercontent.com/26297247/39894798-6b3ec06a-547e-11e8-99e6-fd334996a53e.png)
+
+![produtos-pichau](https://user-images.githubusercontent.com/26297247/39894746-42d777f2-547e-11e8-9dae-298be531481c.png)
+
+[Voltar para o início](https://github.com/Desenho-1-2018-G-6/docs/wiki/Elicitacao-de-Requisitos-Observacao-Participativa#sum%C3%A1rio)
