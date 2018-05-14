@@ -1,10 +1,13 @@
-<p align="justify"> &emsp;&emsp;
- Projeto destinado para a documentação do trabalho de Desenho e Arquitetura de Software (<i>e-commerce</i>). </p>
+# Mamid
 
-<p align="justify"> &emsp;&emsp;
- Link para toda a documentação: https://github.com/Desenho-1-2018-G-6/docs/wiki. </p>
+&emsp;&emsp; Projeto destinado para a documentação do trabalho de Desenho e Arquitetura de Software (_e-commerce_).
 
-# Equipe
+# Documentação e repositórios
+
+&emsp;&emsp; Link para o repositório OFICIAL do projeto: https://github.com/Desenho-1-2018-G-6/mamid
+&emsp;&emsp; Link para toda a documentação: https://github.com/Desenho-1-2018-G-6/docs/wiki. 
+
+# Equipe desenvolvedora e contatos
 
 |                 Nome                |        GitHub       |
 |:------------------------------------:|:-------------------:|
