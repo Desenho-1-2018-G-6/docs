@@ -1,4 +1,4 @@
-# SALIC - Guia de utilização do Docker
+# Mamid - Guia de utilização do Docker
 
 Para facilitar o desenvolvimento e escabilidade da aplicação trabalhamos a plataforma Docker. Com essa plataforma temos a possibilidade de isolar serviços permitindo várias possibilidades de integrações, manutenções e melhorias.
 
